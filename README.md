@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=900&color=5AC8FA&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+%26+AI+systems;Flutter+%2B+Spring+Boot+%2B+Node.js;Speedoo+%7C+GoldVault+ERP+%7C+PhotoTag+%7C+Numen;Currently+diving+into+System+Design+%26+K8s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=900&color=5AC8FA&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+%26+AI+systems;Flutter+%2B+Spring+Boot+%2B+Node.js;GoldVault+KolaKids+%7C+PhotoTag+%7C+Numen;Currently+diving+into+System+Design+%26+K8s" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@ I'm a Computer Science student and full-stack developer building scalable softwa
 
 | Project | Description |
 |---|---|
-| 🚗 **Speedoo** | AI-powered ride-hailing platform |
+<!-- | 🚗 **Speedoo** | AI-powered ride-hailing platform | -->
 | 💎 **GoldVault ERP** | Multi-tenant jewellery management system |
 | 📸 **PhotoTag** | AI-based event photo management platform |
 | 📇 **Numen** | Smart business reminder & automation platform |
